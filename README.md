@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**hjes/hjes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**husanpao/husanpao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husanpao)](https://github.com/anuraghazra/github-readme-stats)
